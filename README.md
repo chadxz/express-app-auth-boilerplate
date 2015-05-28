@@ -70,5 +70,15 @@ and *Authorized redirect URI*, e.g. `http://my-awesome-app.herokuapp.com` and
 - Click **Update this Twitter's applications settings**
 - Copy and paste *Consumer Key* and *Consumer Secret* keys into `config/local.js`
 
+## screenshots
+
+![login page](https://cloud.githubusercontent.com/assets/309219/7867971/cd7482b6-053e-11e5-97b9-834323063c2e.png)
+
+![signup page](https://cloud.githubusercontent.com/assets/309219/7867975/cd83bf74-053e-11e5-82cc-bb094b9c4201.png)
+
+![account management 1](https://cloud.githubusercontent.com/assets/309219/7867972/cd7edbf8-053e-11e5-86e6-77f500fd2203.png)
+
+![account management 2](https://cloud.githubusercontent.com/assets/309219/7867973/cd7f5eca-053e-11e5-892c-4f49fdb47e2c.png)
+
 ## license
 [MIT](LICENSE-MIT)
